@@ -1,2 +1,2 @@
 # Bluetooth_Controlled_car
-We used Arduino and a bluetooth module to connect mobile phone with Arduino ad we could control the movement of the car using the commands on mobile app made by using MIT App Inventor. 
+We used Arduino and a bluetooth module to connect mobile phone with Arduino ad we could control the movement of the car using the commands on mobile app made by using MIT App Inventor. It also comprises of a Sonar which detects any obstacle in front of if. If the user does not give command to stop or turn before the obstacle, the SONAR detects it and the car automatically stoops. 
